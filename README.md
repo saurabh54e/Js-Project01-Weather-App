@@ -1,6 +1,6 @@
 # JavaScript Weather App
 
-Day 1 of my **30 Days JavaScript Challenge**.
+Project 1 of my 30  JavaScript Projects Challenge.
 
 A responsive weather application built using HTML, CSS, and Vanilla JavaScript that fetches real-time weather data from the OpenWeather API.
 
